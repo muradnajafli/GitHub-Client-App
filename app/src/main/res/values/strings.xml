@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GitHub Client</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="organization_name">Organization name</string>
+    <string name="description">description</string>
+    <string name="repositoryName">repositoryName</string>
+    <string name="search">SEARCH</string>
+    <string name="parentLabel">Parent:</string>
+    <string name="forksLabel">Forks:</string>
+    <string name="issuesLabel">Issues:</string>
+    <string name="watcherLabel">Watchers:</string>
+    <string name="descriptionLabel">Description:</string>
+</resources>
